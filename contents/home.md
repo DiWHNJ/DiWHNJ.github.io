@@ -1,7 +1,5 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
 He is currently a Master student at Southeast University, graduating in 2026.
 #### Contact
 
