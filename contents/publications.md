@@ -10,7 +10,7 @@
 
 - Jiaqi Li, Qianshan Wei, Chuanyi Zhang, Guilin Qi, <strong>Miaozeng Du</strong>, Yongrui Chen, Sheng Bi, Fan Liu (2024). Single Image Unlearning: Efficient Machine Unlearning in Multimodal Large Language Models. <strong>NeurIPS 2024</strong>. [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/3e53d82a1113e3d240059a9195668edc-Paper-Conference.pdf)
 
-* means Co-first author.
+\* means Co-first author.
 
 
 
