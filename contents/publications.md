@@ -1,6 +1,6 @@
 #### Published
 
-- <strong>Miaozeng Du</strong>, Jiaqi Li*, Sirui Pan, Yi Zhan, Guilin Qi, Yuxin Zhang, Rihui Jin, Yinjia Shu, Qianshan Wei (2025).
+- <strong>Miaozeng Du</strong>, Jiaqi Li*, Sirui Pan, Yi Zhan, Guilin Qi, Yuxin Zhang, Rihui Jin, Yinjia Shu, Qianshan Wei (2025). <br>
 Forget What Has Seen: Selective Concept Unlearning in Segmentation Foundation Models. <strong>AAAI 2026</strong>. 
 
 - Jiaqi Li, <strong>Miaozeng Du*</strong>, Chuanyi Zhang, Yongrui Chen, Nan Hu, Guilin Qi, Haiyun Jiang, Siyuan Cheng, Bozhong Tian (2024).
